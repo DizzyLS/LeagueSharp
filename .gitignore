@@ -16,6 +16,7 @@ local.properties
 .settings/
 .loadpath
 *.gitatt*
+*.sln
 # External tool builders
 .externalToolBuilders/
 
@@ -213,8 +214,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-Syndra/App.config
-Syndra/Syndra.csproj
-Marksman/Properties/Resources.Designer.cs
-*.csproj
-*.sln
